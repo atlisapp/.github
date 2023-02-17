@@ -1,10 +1,17 @@
-## Hey! We are Atlis,
+<p align="center">
+  <a href="https://atlis.gg/">
+  <img src="https://atlis.gg/Screenshot.png" width="320" alt="Atlis Logo" />
+  </a>
+</p>
 
-The platform you need
+<h3 align="center">
+  The platform you need
+</h3>
 
-We make way for a social platform that creates the possibility for publishers and other users to connect with eachother!
+<p align="center">
+  <a href="https://atlis.gg/">Atlis</a> a social media platform for passionated people.
+</p>
 
-Check us out [**here!**](https://atlis.cc)
-
-Stay in touch by following our [*Twitter*](https://twitter.com/atliscc) or/and joining our [*Discord*](https://discord.gg/9A4wN2QeP5) .
-
+<h3 align="center">
+  <a href="https://atliss.gg">Join testing phase</a>
+</h3>
