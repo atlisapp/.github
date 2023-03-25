@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://atlis.gg/">
-  <img src="https://atlis.gg/Screenshot.png" width="320" alt="Atlis Logo" />
+  <img src="https://app.atlis.gg/Atlis.svg" width="320" alt="Atlis Logo" />
   </a>
 </p>
 
@@ -13,5 +13,5 @@
 </p>
 
 <h3 align="center">
-  <a href="https://atliss.gg">Join testing phase</a>
+  <a href="https://atlis.gg">Join testing phase</a>
 </h3>
