@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  The platform you need
+  The platform that connects groups.
 </h3>
 
 <p align="center">
