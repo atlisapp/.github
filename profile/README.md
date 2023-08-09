@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://atlis.gg/">
-  <img src="https://app.atlis.gg/logo-atlis.png" width="80" alt="Atlis Logo" />
+  <img src="https://avatars.githubusercontent.com/u/103820993?s=200&v=4" width="80" alt="Atlis Logo" />
   </a>
 </p>
 
